@@ -1,0 +1,1 @@
+This is my first website that I built as I am working through the HTML section of The Odin Project. The goal of this project is to demonstrate my basic knowledge of the HTML language to create a basic website.
